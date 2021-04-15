@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jul 26 12:42:05 2019
-
-@author: zhaomeng
 """
 import random
 import sklearn
