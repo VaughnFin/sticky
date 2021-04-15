@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jul 26 18:09:58 2019
-
-@author: zhaomen
 """
 
 import csv, random, math
